@@ -1,5 +1,4 @@
 <h3>
-  <img src="[YOUR_IMAGE_URL](https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png)" width="22" height="22" align="center" />
   About Me
 </h3>
 Hi , I'm Sumeet, a passionate developer who enjoys building modern web applications and exploring the latest advancements in Artificial Intelligence. I love turning ideas into practical projects, solving challenging problems, and continuously improving my skills. Whether it's full-stack development, AI-powered applications, or open-source contributions, I'm always excited to learn, build, and collaborate.
