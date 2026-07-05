@@ -1,4 +1,5 @@
-# 💫 About Me:
+# <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/1711577b-c60a-4542-93dd-04c06e63c942" />
+ About Me:
 Hi , I'm Sumeet, a passionate developer who enjoys building modern web applications and exploring the latest advancements in Artificial Intelligence. I love turning ideas into practical projects, solving challenging problems, and continuously improving my skills. Whether it's full-stack development, AI-powered applications, or open-source contributions, I'm always excited to learn, build, and collaborate.
 
 
