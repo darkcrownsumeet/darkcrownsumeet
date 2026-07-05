@@ -1,5 +1,5 @@
 <h3>
-  ## About Me
+  # About Me
 </h3>
 Hi , I'm Sumeet, a passionate developer who enjoys building modern web applications and exploring the latest advancements in Artificial Intelligence. I love turning ideas into practical projects, solving challenging problems, and continuously improving my skills. Whether it's full-stack development, AI-powered applications, or open-source contributions, I'm always excited to learn, build, and collaborate.
 
